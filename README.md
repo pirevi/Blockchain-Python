@@ -12,4 +12,4 @@ $ pip install pycrypto
 ## How to Run:
 Execute __node.py__ file
 
-<img src="/imgs/execution_demo.PNG" alt="Running Blockchain code in terminal"/>
+<img src="/imgs/code_execution_demo.PNG" alt="Running Blockchain code in terminal"/>
